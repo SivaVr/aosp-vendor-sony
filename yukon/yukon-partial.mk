@@ -16,6 +16,7 @@ PRODUCT_PACKAGES += \
 	bt_addr \
 	irsc_util \
 	netmgrd \
+	mpdecision \
 	qmiproxy \
 	qmuxd \
 	rmt_storage \
