@@ -55,7 +55,6 @@ PRODUCT_PACKAGES += \
 	libdiag \
 	libkeyctrl \
 	libmiscta \
-	libmm-omxcore \
 	libmmjpeg_interface \
 	libpin-cache \
 	libqomx_core \
