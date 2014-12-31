@@ -228,4 +228,5 @@ PRODUCT_PACKAGES += \
 	libfastcvadsp_skel \
 	libqcbassboost \
 	libqcreverb \
-	libqcvirt
+	libqcvirt \
+	libyasalgo
